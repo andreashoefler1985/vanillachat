@@ -88,15 +88,15 @@ app.get("/", (c) => {
             </form>
           </div>
           <div className="mt-4 text-center text-sm text-gray-500 flex items-center justify-center">
-            <span className="mr-2 pt-2">Powered by</span>
+          <span className="mr-2 pt-2">AI Chat</span>
             <a
               href="https://developers.cloudflare.com/workers-ai/"
               target="_blank"
             >
               <img
-                src="/static/cloudflare-logo.png"
-                alt="Cloudflare Logo"
-                className="h-6 inline"
+                src="/static/hoefler.png"
+                alt="hoefler"
+                className="h-25 inline"
               />
             </a>
           </div>
